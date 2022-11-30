@@ -3,6 +3,12 @@ This app uses:
 [Express](https://expressjs.com/) framework
 [AWS Elastic Beanstalk](http://aws.amazon.com/elasticbeanstalk/). 
 
+## [Express Router](https://expressjs.com/en/4x/api.html#router)
+1. **Inside routes/index.js**
+   - handle post route to /questions
+   - send back daily questions
+
+
 ## URLs
 1. ***Production Server***
    - > http://247api-env.eba-ndr8iuri.us-west-2.elasticbeanstalk.com/
